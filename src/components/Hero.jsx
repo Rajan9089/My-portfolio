@@ -46,7 +46,7 @@ export function Hero() {
                 <ShinyEffect left={-100} top={0} size={1200} />
             </div>
             
-            <img src={profilepic} className='rounded-full w-[300px] md:w-[500px]' />
+            <img src={profilepic} className='rounded-full w-[300px] md:w-[350px]' />
 
         </div>
     )
